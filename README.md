@@ -1,16 +1,30 @@
-## Hi there 👋
+# TDS Reader
 
-<!--
-**tdsreader/tdsreader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+TDS Reader is a Google Sheets based tool that sends you email notifications about new relevant jobs on Upwork.
 
-Here are some ideas to get you started:
+## Features
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Almost instant email notifications!**
+* **Cloud-based** - Google Sheets and email
+* **Cross-platform** - Desktop, mobile, etc. - never miss a notification!
+* **Minimal required permissions:**
+  * Access the tds reader spreadsheet itself
+  * Send emails
+* **Forever free!**
+* **Fully open-source**
+* **Full control and customization of your own reader**
+  * You have full access to the reader code which you are free to modify according to your own needs (see licence)
+* **Custom and very powerful search syntax**
+* **Regex search**
+* **More than 15 information points**
+* **Unlimited number of feeds**
+* **Beautiful and flexible enabling of feeds**
+* **Up to a 100 email notifications per day**
+* **Community support**
+* Open jobs right from push notification
+* Compatible with Upwork mobile app
+
+The public **version 2** will be released very soon. Join the **[Google Group](https://groups.google.com/g/tdsreader)** to get notified about this
+
+Thank you! Stay tuned!
+
