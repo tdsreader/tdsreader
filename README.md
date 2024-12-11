@@ -24,7 +24,5 @@ TDS Reader is a Google Sheets based tool that sends you email notifications abou
 * Open jobs right from push notification
 * Compatible with Upwork mobile app
 
-The public **version 2** will be released very soon. Join the **[Google Group](https://groups.google.com/g/tdsreader)** to get notified about this
-
-Thank you! Stay tuned!
+The public **version 2** will be released very soon. Join the **[Google Group](https://groups.google.com/g/tdsreader)** to get notified about this.
 
