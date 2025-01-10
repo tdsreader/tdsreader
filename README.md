@@ -4,8 +4,8 @@
 
 ## Features
 
-* **Almost instant email notifications!**
-* **Cloud-based** - Google Sheets and email
+* **We are officially the fastest reader avaialable** - faster than Upwork job alerts by minutes!
+* **Cloud-based** - uses Google Sheets and email notifications
 * **Cross-platform** - Desktop, mobile, etc. - never miss a notification!
 * **Minimal required permissions:**
   * Access the tds reader spreadsheet itself
@@ -24,5 +24,6 @@
 * Open jobs right from push notification
 * Compatible with Upwork mobile app
 
-The public **version 2** will be released very soon. Join the **[Google Group](https://groups.google.com/g/tdsreader)** to get notified about this.
+
+The public **version 2** will be released 10-15 Jan 2025. Join the **[Google Group](https://groups.google.com/g/tdsreader)** to get notified about this!
 
