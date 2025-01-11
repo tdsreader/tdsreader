@@ -4,7 +4,7 @@
 
 ## Features
 
-* **We are officially the fastest reader available** - faster than Upwork job alerts by minutes!
+* **We are officially the fastest Upwork reader** - faster than Upwork job alerts by minutes!
 * **Cloud-based** - uses Google Sheets and email notifications
 * **Cross-platform** - Desktop, mobile, etc. - never miss a notification!
 * **Minimal required permissions:**
