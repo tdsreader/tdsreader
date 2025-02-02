@@ -1,6 +1,6 @@
 # TDS Reader
 
-**TDS Reader** is a Google Sheets based tool that sends you email notifications about new jobs on Upwork. **TDS** stands for Title, Description and Skills.
+**TDS Reader** is a Google Sheets based tool that sends you email notifications about new jobs on Upwork. It is free and open-source with paid version available. **TDS** stands for Title, Description and Skills.
 
 ## Features
 
@@ -26,5 +26,5 @@
 
 Pro version coming very soon
 
-The public **version 2** will be released Jan 2025. Join the **[Google Group](https://groups.google.com/g/tdsreader)** to get notified about this!
+The public **version 2** will be released Feb 2025. Join the **[Google Group](https://groups.google.com/g/tdsreader)** to get notified about this!
 
