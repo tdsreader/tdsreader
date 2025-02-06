@@ -27,5 +27,5 @@
 
 Pro version coming very soon
 
-The public **version 2** will be released Feb 2025. Join the **[Google Group](https://groups.google.com/g/tdsreader)** to get notified about this!
+The public **version 2** will be released in Feb 2025. Join the **[Google Group](https://groups.google.com/g/tdsreader)** to get notified about this!
 
