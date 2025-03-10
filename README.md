@@ -5,7 +5,7 @@
 ## Features
 
 ![speedometer](https://docs.google.com/spreadsheets/d/e/2PACX-1vSuIFXX309i06cr7hHFV9WgOPK_hitAknqP9hFbKhTnrr2yYGJjc9jFTDU_nTrDkiQLdZAHT3pxEXUl/pubchart?oid=195704369&format=image)
-* **We are the fastest reader available** - faster than Upwork job alerts and other readers!
+* **Very Fast** - faster than Upwork job alerts and other readers!
 * **Cloud-based** - uses Google Sheets and email notifications
 * **Cross-platform** - Desktop, mobile, etc. - never miss a notification!
 * **Minimal required permissions:**
