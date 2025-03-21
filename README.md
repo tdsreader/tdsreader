@@ -4,9 +4,8 @@
 
 ## Features
 
-![speedometer](https://docs.google.com/spreadsheets/d/e/2PACX-1vSuIFXX309i06cr7hHFV9WgOPK_hitAknqP9hFbKhTnrr2yYGJjc9jFTDU_nTrDkiQLdZAHT3pxEXUl/pubchart?oid=195704369&format=image)
-
-* **Very Fast** - faster than Upwork job alerts and other readers!
+* **SuperFast** - faster than Upwork job alerts and other readers!
+* ![speedometer](https://docs.google.com/spreadsheets/d/e/2PACX-1vSuIFXX309i06cr7hHFV9WgOPK_hitAknqP9hFbKhTnrr2yYGJjc9jFTDU_nTrDkiQLdZAHT3pxEXUl/pubchart?oid=195704369&format=image)
 * **Forever free**
 * **Fully open-source**
 * **Full control and customization of your own reader**
