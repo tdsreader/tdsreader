@@ -12,7 +12,8 @@
   * You have full access to the reader code which you are free to modify according to your own needs (see license).
 * **Minimal required permissions:**
   * Access the tds reader spreadsheet itself
-  * Send emails
+  * Access the form linked to the tds reader spreadsheet
+  * Send emails as you
 * **Custom and very powerful search syntax**
 * **Regex search**
 * **More than 15 information points**
